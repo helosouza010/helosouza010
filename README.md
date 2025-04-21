@@ -19,7 +19,7 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=helosouza010&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=3" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=helosouza010&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=4" 
     alt="Tecnologias" 
     height="100" 
     style="padding-right: 10px;" 
