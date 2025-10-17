@@ -1,7 +1,7 @@
 
 ## 👩🏾‍💻💕 Heloisa Soares de Souza
 
-Aprendendo mais FrontEnd e CyberSegurança
+Aprendendo FrontEnd e CyberSegurança
 
 
 
