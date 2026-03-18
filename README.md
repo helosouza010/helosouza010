@@ -1,8 +1,9 @@
 
 ## 👩🏾‍💻💕 Heloisa Soares de Souza
 
-Aprendendo FrontEnd e CyberSegurança
-
+Dev FrontEnd
+Aprendendo Redes
+Enstusiasta de Cybersegurança
 
 
 ### 📊Etatísticas
