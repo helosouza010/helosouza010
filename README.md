@@ -1,14 +1,6 @@
 
 ## 👩🏾‍💻💕 Heloisa Soares de Souza
 
-Dev FrontEnd
-
-Aprendendo Redes
-
-Enstusiasta de Cybersegurança
-
-
-### 📊Etatísticas
 
 
 ### 📊 Estatísticas
